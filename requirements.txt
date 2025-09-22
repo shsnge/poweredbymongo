@@ -2,3 +2,4 @@ streamlit
 pymongo[srv]
 langchain-google-genai
 langgraph
+langgraph-checkpoint-mongodb
